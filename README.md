@@ -1,5 +1,5 @@
 ## Saalve! Eu sou o Léo!
-• Atualmente estou estudando para me tornar um profissional em <strong>desenvolvimento web</strong>.
+▸ 📌 Atualmente estou estudando para me tornar um profissional em <strong>desenvolvimento web</strong>.
 
 <div align="center">
     <a href="https://github.com/leOhsantos">
