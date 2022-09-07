@@ -1,10 +1,9 @@
 ## Saalve! Eu sou o Léo!
-▸ 📌 Atualmente estou estudando para me tornar um profissional em <strong>desenvolvimento web</strong>.
 
 <div align="center">
     <a href="https://github.com/leOhsantos">
         <img height="160em" src="https://github-readme-stats.vercel.app/api?username=leOhsantos&theme=dracula&count_private=true"/>
-        <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leOhsantos&layout=compact&theme=dracula&langs_count=3"/>
+        <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leOhsantos&layout=compact&theme=dracula"/>
     </a>
 </div>
 
