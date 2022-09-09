@@ -4,8 +4,6 @@
 
 • 💻 Cursando o 3º ano em Desenvolvimento de Sistemas Integrado ao Ensino Médio (ETEC de Guaianazes - São Paulo, SP)
 
-##
-
 <div align="center">
     <a href="https://github.com/leOhsantos">
         <img height="160em" src="https://github-readme-stats.vercel.app/api?username=leOhsantos&theme=dracula&count_private=true"/>
