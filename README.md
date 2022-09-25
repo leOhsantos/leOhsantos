@@ -6,8 +6,8 @@
 
 <div align="center">
     <a href="https://github.com/leOhsantos">
-        <img height="160em" src="https://github-readme-stats.vercel.app/api?username=leOhsantos&theme=tokyonight&count_private=true&show_icons=true"/>
-        <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leOhsantos&layout=compact&theme=tokyonight"/>
+        <img height="160em" src="https://github-readme-stats.vercel.app/api?username=leOhsantos&count_private=true&show_icons=true&title_color=675298&text_color=DEDEDE&icon_color=675298&bg_color=191919&border_radius=10"/>
+        <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leOhsantos&layout=compact&title_color=675298&text_color=DEDEDE&bg_color=191919&border_radius=10"/>
     </a>
 </div>
 
