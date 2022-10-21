@@ -1,6 +1,6 @@
 ## Olá, me chamo Leonardo Santos 👋
 
-• 📅 19/10/2004 - 17 anos
+• 📅 19/10/2004 - 18 anos
 
 • 💻 Cursando o 3º ano do Ensino Médio Técnico em Desenvolvimento de Sistemas (ETEC de Guaianazes - São Paulo, SP)
 
