@@ -2,7 +2,7 @@
 
 • 📅 19/10/2004 - 18 anos
 
-• 💻 Cursando o 3º ano do Ensino Médio Técnico em Desenvolvimento de Sistemas (ETEC de Guaianazes - São Paulo, SP)
+• 💻 Técnico em Desenvolvimento de Sistemas (ETEC de Guaianazes - São Paulo, SP)
 
 • 📧 [leonardo.santos191004@gmail.com](mailto:leonardo.santos191004@gmail.com)
 
