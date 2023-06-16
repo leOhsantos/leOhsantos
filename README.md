@@ -1,4 +1,4 @@
-## Hello, my name is Leonardo Santos 👋
+## Hi 👋, I'm Leonardo Santos
 
 • 📅 10/19/2004 - 18 years old
 
