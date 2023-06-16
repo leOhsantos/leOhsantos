@@ -1,15 +1,15 @@
-## Olá, me chamo Leonardo Santos 👋
+## Hello, my name is Leonardo Santos 👋
 
-• 📅 19/10/2004 - 18 anos
+• 📅 10/19/2004 - 18 years old
 
-• 💻 Técnico em Desenvolvimento de Sistemas (ETEC de Guaianazes - São Paulo, SP)
+• 💻 Systems Development Technician (ETEC de Guaianazes - São Paulo, SP)
 
 • 📧 [leonardo.santos191004@gmail.com](mailto:leonardo.santos191004@gmail.com)
 
 <div align="center">
     <a href="https://github.com/leOhsantos">
         <img height="160em" src="https://github-readme-stats.vercel.app/api?username=leOhsantos&count_private=true&show_icons=true&title_color=5589d6&text_color=DEDEDE&icon_color=5589d6&bg_color=191919&border_radius=10"/>
-        <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leOhsantos&layout=compact&title_color=5589d6&text_color=DEDEDE&bg_color=191919&border_radius=10"/>
+        <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leOhsantos&layout=compact&title_color=5589d6&text_color=DEDEDE&bg_color=191919&border_radius=10&langs_count=5"/>
     </a>
 </div>
 
@@ -20,9 +20,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40em">  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40em"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40em">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40em">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40em"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40em">    
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40em">   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40em">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40em">  
 </div>
