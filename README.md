@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5589d6&height=120&section=header"/>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5589d6&size=36&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Leonardo+Santos;I'm+19+years+old;I'm+from+São+Paulo,+Brazil;Be+welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5589d6&size=36&center=true&vCenter=true&width=1000&lines=Hello!+I'm+Leonardo+Santos;I'm+19+years+old;I'm+from+São+Paulo,+Brazil;Currently+studying+at+SPTech;Be+welcome!+:%29)](https://git.io/typing-svg)
 
 &nbsp;
 
@@ -19,6 +19,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="44em"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="44em">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="44em"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="44em">  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="44em">  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="44em">  
 </div>
