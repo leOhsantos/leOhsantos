@@ -14,16 +14,16 @@
 &nbsp;
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html" height="44em" alt="HTML" title="HTML">
-<img src="https://skillicons.dev/icons?i=css" height="44em" alt="CSS" title="CSS">  
-<img src="https://skillicons.dev/icons?i=js" height="44em" alt="JavaScript" title="JavaScript"> 
-<img src="https://skillicons.dev/icons?i=ts" height="44em" alt="TypeScript" title="TypeScript">
-<img src="https://skillicons.dev/icons?i=react" height="44em" alt="React" title="React"> 
-<img src="https://skillicons.dev/icons?i=java" height="44em" alt="Java" title="Java">  
-<img src="https://skillicons.dev/icons?i=nodejs" height="44em" alt="Node.js" title="Node.js">  
-<img src="https://skillicons.dev/icons?i=mysql" height="44em" alt="MySQL" title="MySQL">  
-<img src="https://skillicons.dev/icons?i=git" height="44em" alt="Git" title="Git"> 
-<img src="https://skillicons.dev/icons?i=tailwind" height="44em" alt="Tailwind" title="Tailwind"> 
+<img src="https://skillicons.dev/icons?i=html" height="46em" alt="HTML" title="HTML">
+<img src="https://skillicons.dev/icons?i=css" height="46em" alt="CSS" title="CSS">  
+<img src="https://skillicons.dev/icons?i=js" height="46em" alt="JavaScript" title="JavaScript"> 
+<img src="https://skillicons.dev/icons?i=ts" height="46em" alt="TypeScript" title="TypeScript">
+<img src="https://skillicons.dev/icons?i=react" height="46em" alt="React" title="React"> 
+<img src="https://skillicons.dev/icons?i=java" height="46em" alt="Java" title="Java">  
+<img src="https://skillicons.dev/icons?i=nodejs" height="46em" alt="Node.js" title="Node.js">  
+<img src="https://skillicons.dev/icons?i=mysql" height="46em" alt="MySQL" title="MySQL">  
+<img src="https://skillicons.dev/icons?i=git" height="46em" alt="Git" title="Git"> 
+<img src="https://skillicons.dev/icons?i=tailwind" height="46em" alt="Tailwind" title="Tailwind"> 
 </div>
 
 &nbsp;
