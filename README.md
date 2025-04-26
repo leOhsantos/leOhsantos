@@ -23,7 +23,10 @@
 <img src="https://skillicons.dev/icons?i=java" height="46em" alt="Java" title="Java">
 <img src="https://skillicons.dev/icons?i=spring" height="46em" alt="Spring" title="Spring">
 <img src="https://skillicons.dev/icons?i=nodejs" height="46em" alt="Node.js" title="Node.js">  
-<img src="https://skillicons.dev/icons?i=mysql" height="46em" alt="MySQL" title="MySQL">  
+<img src="https://skillicons.dev/icons?i=mysql" height="46em" alt="MySQL" title="MySQL">
+<img src="https://skillicons.dev/icons?i=postgresql" height="46em" alt="PostgreSQL" title="PostgreSQL"> 
+<img src="https://skillicons.dev/icons?i=docker" height="46em" alt="Docker" title="Docker">
+<img src="https://skillicons.dev/icons?i=aws" height="46em" alt="AWS" title="AWS"> 
 <img src="https://skillicons.dev/icons?i=git" height="46em" alt="Git" title="Git">
 </div>
 
