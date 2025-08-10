@@ -1,7 +1,10 @@
 # Hello! I'm Leonardo Santos 👋😄
-• 💻 Back-end Software Engineer <br>
-• 🎓 Graduated in Systems Analysis and Development (SPTech) <br>
-• 🏢 Currently working at Jazz Tech
+
+<ul>
+    <li>💻 Back-end Software Engineer</li>
+    <li>🎓 Graduated in Systems Analysis and Development (SPTech)</li>
+    <li>🏢 Currently working at Jazz Tech</li>
+</ul>
 
 &nbsp;
 
