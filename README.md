@@ -1,7 +1,7 @@
 # Hello! I'm Leonardo Santos 👋😄
 
 <ul>
-    <li>💻 Back-end Software Engineer</li>
+    <li>💻 Backend Software Engineer</li>
     <li>🎓 Graduated in Systems Analysis and Development (SPTech)</li>
     <li>🏢 Currently working at Jazz Tech</li>
 </ul>
@@ -37,7 +37,7 @@
     <a href="mailto:leonardo.santos191004@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30em" alt="Gmail">
     </a>
-    <a href="https://www.linkedin.com/in/leOhsantos/">
+    <a href="https://www.linkedin.com/in/leOhsantos">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30em" alt="LinkedIn">
     </a>
 </div>
