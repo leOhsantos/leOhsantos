@@ -27,12 +27,4 @@
     <img src="https://skillicons.dev/icons?i=git" height="50em" alt="Git" title="Git">
 </div>
 
-&nbsp;
-
-<div align="center">
-    <a href="https://www.linkedin.com/in/leOhsantos">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="36em" alt="LinkedIn">
-    </a>
-</div>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=11AD65&height=120&section=footer"/>
