@@ -1,6 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=11AD65&height=120&section=header"/>
- 
-## Hello! I'm Leonardo Santos 👋😄
+# Hello! I'm Leonardo Santos 👋😄
 • 💻 Back-end Software Engineer <br>
 • 🎓 Graduated in Systems Analysis and Development (SPTech) <br>
 • 🏢 Currently working at Jazz Tech
