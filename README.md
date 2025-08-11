@@ -1,4 +1,4 @@
-# Hello! I'm Leonardo Santos 👋😄
+# Hello! I'm Leonardo 👋😄
 
 <ul>
     <li>💻 Backend Software Engineer</li>
