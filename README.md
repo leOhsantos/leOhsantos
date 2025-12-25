@@ -42,7 +42,7 @@
 ### Contact:
 
 <a href="https://www.linkedin.com/in/leOhsantos">
-    <img src="https://img.shields.io/badge/LinkedIn-11AD65?style=for-the-badge&logo=linkedin&logoColor=white" height="30em" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-242938?style=for-the-badge&logo=linkedin&logoColor=white" height="30em" alt="LinkedIn">
 </a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=11AD65&height=120&section=footer"/>
