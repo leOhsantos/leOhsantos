@@ -17,21 +17,27 @@
 
 ### Tech Stack:
 
-<img alt="Java" src="https://img.shields.io/badge/Java-11AD65?style=for-the-badge&logo=java&logoColor=white">
-<img alt="Spring Boot" src="https://img.shields.io/badge/Spring-242938?style=for-the-badge&logo=spring&logoColor=white">
-<img alt="C#" src="https://img.shields.io/badge/C%23-11AD65?style=for-the-badge&logo=csharp&logoColor=white">
-<img alt=".NET" src="https://img.shields.io/badge/.NET-242938?style=for-the-badge&logo=.net&logoColor=white">
+<div>
+    <img alt="Java" src="https://img.shields.io/badge/Java-11AD65?style=for-the-badge&logo=java&logoColor=white">
+    <img alt="Spring Boot" src="https://img.shields.io/badge/Spring-242938?style=for-the-badge&logo=spring&logoColor=white">
+    <img alt="C#" src="https://img.shields.io/badge/C%23-11AD65?style=for-the-badge&logo=csharp&logoColor=white">
+    <img alt=".NET" src="https://img.shields.io/badge/.NET-242938?style=for-the-badge&logo=.net&logoColor=white">
+</div>
 
-<img alt="React.js" src="https://img.shields.io/badge/react-242938?style=for-the-badge&logo=react&logoColor=white">
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-242938?style=for-the-badge&logo=javascript&logoColor=white">
-<img alt="TypeScript" src="https://img.shields.io/badge/typescript-242938?style=for-the-badge&logo=react&logoColor=white">
-<img alt="Tailwind CSS" src="https://img.shields.io/badge/tailwindcss-242938?style=for-the-badge&logo=tailwindcss&logoColor=white">
+<div>
+    <img alt="React.js" src="https://img.shields.io/badge/react-242938?style=for-the-badge&logo=react&logoColor=white">
+    <img alt="JavaScript" src="https://img.shields.io/badge/javascript-242938?style=for-the-badge&logo=javascript&logoColor=white">
+    <img alt="TypeScript" src="https://img.shields.io/badge/typescript-242938?style=for-the-badge&logo=react&logoColor=white">
+    <img alt="Tailwind CSS" src="https://img.shields.io/badge/tailwindcss-242938?style=for-the-badge&logo=tailwindcss&logoColor=white">
+</div>
 
-<img alt="PostgreSQL" src="https://img.shields.io/badge/postgres-242938?style=for-the-badge&logo=postgresql&logoColor=white">
-<img alt="MySQL" src="https://img.shields.io/badge/mysql-242938?style=for-the-badge&logo=mysql&logoColor=white">
-<img alt="Docker" src="https://img.shields.io/badge/docker-242938?style=for-the-badge&logo=docker&logoColor=white">
-<img alt="AWS" src="https://img.shields.io/badge/aws-242938?style=for-the-badge&logo=aws&logoColor=white">
-<img alt="Git" src="https://img.shields.io/badge/git-242938?style=for-the-badge&logo=git&logoColor=white">
+<div>
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/postgres-242938?style=for-the-badge&logo=postgresql&logoColor=white">
+    <img alt="MySQL" src="https://img.shields.io/badge/mysql-242938?style=for-the-badge&logo=mysql&logoColor=white">
+    <img alt="Docker" src="https://img.shields.io/badge/docker-242938?style=for-the-badge&logo=docker&logoColor=white">
+    <img alt="AWS" src="https://img.shields.io/badge/aws-242938?style=for-the-badge&logo=aws&logoColor=white">
+    <img alt="Git" src="https://img.shields.io/badge/git-242938?style=for-the-badge&logo=git&logoColor=white">
+</div>
 
 ### Contact:
 
