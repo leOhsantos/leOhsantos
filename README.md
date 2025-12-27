@@ -35,8 +35,9 @@
     <img alt="PostgreSQL" src="https://img.shields.io/badge/postgresql-242938?style=for-the-badge&logo=postgresql&logoColor=white">
     <img alt="MySQL" src="https://img.shields.io/badge/mysql-242938?style=for-the-badge&logo=mysql&logoColor=white">
     <img alt="Docker" src="https://img.shields.io/badge/docker-242938?style=for-the-badge&logo=docker&logoColor=white">
-    <img alt="AWS" src="https://img.shields.io/badge/aws-242938?style=for-the-badge&logo=aws&logoColor=white">
+    <img alt="Apache Kafka" src="https://img.shields.io/badge/Kafka-242938?style=for-the-badge&logo=apachekafka&logoColor=white">
     <img alt="Git" src="https://img.shields.io/badge/git-242938?style=for-the-badge&logo=git&logoColor=white">
+    <img alt="AWS" src="https://img.shields.io/badge/aws-242938?style=for-the-badge&logo=aws&logoColor=white">
 </div>
 
 ### Contact:
