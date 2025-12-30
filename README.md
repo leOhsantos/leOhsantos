@@ -1,4 +1,4 @@
-# Hi! I'm Leonardo 👋😄
+# Hi, I'm Leonardo! 👋😄
 
 <ul>
     <li>💻 Backend Software Engineer</li>
@@ -15,7 +15,7 @@
 </div>
 &nbsp; -->
 
-### Tech Stack:
+### Tech Stack
 
 <div>
     <img alt="Java" src="https://img.shields.io/badge/java-11AD65?style=for-the-badge&logo=java&logoColor=white">
@@ -40,7 +40,7 @@
     <img alt="AWS" src="https://img.shields.io/badge/aws-242938?style=for-the-badge&logo=aws&logoColor=white">
 </div>
 
-### Contact:
+### Contact
 
 <a href="https://www.linkedin.com/in/leOhsantos">
     <img src="https://img.shields.io/badge/LinkedIn-242938?style=for-the-badge&logo=linkedin&logoColor=white" height="30em" alt="LinkedIn">
